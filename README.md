@@ -7,8 +7,8 @@ The analysis consists of:
 1) exploratory summary stats
 2) Fourier Analysis to identify the major cycles
 3) stl (Seasonal Decomposition of Time Series by Loess) analysis:
-  • Daily
-  • Weekly
-  • Monthly
+• Daily
+• Weekly
+• Monthly
 
 The analysis was originally done late 2016. It is briefly updated to post it here.
