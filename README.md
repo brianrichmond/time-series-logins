@@ -11,3 +11,4 @@ The analysis consists of:
   • Weekly
   • Monthly
 
+The analysis was originally done late 2016. It is briefly updated to post it here.
